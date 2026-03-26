@@ -1,26 +1,27 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/A4Pu2CXw)
-# Trabalho Prático - Semana 5
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/NAwkGfaw)
+# Trabalho Prático - Semana 04
 
-Dessa vez, vamos dar sequência ao projeto iniciado na semana passada. Se você ainda não fez o projeto da semana anterior, fique atento, se programe e procure colocar as atividades em dia. Volte lá, leia tudo e faça sua parte pois essa atividade depende da atividade anterior..
+Dessa vez, vamos escolher uma proposta de projeto para trabalhar.
 
-Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto no celular quanto no desktop, entendendo também como é o processo gradativo e colaborativo de desenvolvimento de um software, registrando cada etapa no histórico de commits do repositório do git/GitHub.
+Nessa atividade, você deverá montar a página inicial do projeto escolhido, a organização do HTML aplicando semântica correta e uso aprimorado do CSS. Leia o enunciado completo no Canvas para mais detalhes.
 
-**IMPORTANTE:** Você deve trabalhar e alterar apenas arquivos dentro da pasta **`public`,** mantendo os arquivos **`index.html`** e **`styles.css`** com estes nomes. Deixe todos os demais arquivos e pastas desse repositório inalterados. **PRESTE MUITA ATENÇÃO NISSO.**
+**IMPORTANTE:** Você deve trabalhar e alterar apenas arquivos dentro da pasta **`public`**. Deixe todos os demais arquivos e pastas desse repositório inalterados. **PRESTE MUITA ATENÇÃO NISSO.**
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Arthur Moraes Braga Araujo
+- Matricula: 1025300
+- Proposta de projeto escolhida: Proposta 4- Coleções e itens
+- Breve descrição sobre seu projeto: Um site para facilitar a pesquisa de discos de vinis que se tornou uma raridade nos dias de hoje e que algumas pessoas possuem o interesse por sua raridade e exclusividade, o site é um meio para facilitar que usuários que desejam comprar ou procurar lojas que vendem os discos encontrem o que desejam.
 
-## Print da versão responsiva com CSS puro [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
-
-## Print da versão responsiva com CSS puro [MOBILE] (*)
+## Print do(s) wireframe(s) criado
+> Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
 
 <<  COLOQUE A IMAGEM AQUI >>
+![Wireframe](public/Wireframe.png)
+![Wireframe](public/Wireframe.jpeg)
 
+## Print da home-page criada
 
-(*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
+![Home_page](public/Site.png)
