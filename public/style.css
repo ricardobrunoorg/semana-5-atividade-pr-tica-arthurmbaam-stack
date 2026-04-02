@@ -80,6 +80,7 @@ margin-top: 10px;
     justify-content: space-around;
     padding: 20px;
     position: relative;
+    width: 100%;
 }
 .destaques .sub-destaque {
     border: 1px solid #ccc;
@@ -120,7 +121,7 @@ margin-top: 10px;
 }
 
 .banner img{
-    width:100px;
+    width:300px;
     
 }
 
